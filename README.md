@@ -9,7 +9,7 @@ I am still learning and loving that discovering experience.
 Started from this beloved soul:
 https://medium.com/@varsha.das22/how-to-automatically-add-a-schedule-from-google-sheets-to-calendar-using-apps-script-2d37990a1ddd
 
-My code now:  <a href ="">calendarJS</a>
+My code now:  <a href ="https://github.com/viniciussineza/googleJS/blob/main/calendar.js">calendarJS</a>
 
 <hr>
 
@@ -17,4 +17,4 @@ My code now:  <a href ="">calendarJS</a>
 
 lost where I started :/
 
-My code now: <a href ="">sheetsJS</a>
+My code now: <a href ="https://github.com/viniciussineza/googleJS/blob/main/sheets.js">sheetsJS</a>
